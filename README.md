@@ -1,10 +1,6 @@
 # 📊 Proyecto: Análisis de Inversión en la NBA con Python, SQL y Power BI
-📌 Autor: Fabian Arias  
-📧 Email: fabiancarias0111@gmail.com
-
-
+[Link al repositorio del proyecto](https://github.com/PabloEstruch/PI_NBA_SoyHenry)
 ## 📌 Introducción
-La NBA es una de las ligas deportivas más rentables del mundo, con equipos que generan ingresos millonarios a través de boletos, patrocinios, derechos de transmisión y merchandising.  
 
 El objetivo de este proyecto es analizar datos financieros y de rendimiento de los equipos para identificar oportunidades de inversión en franquicias de la NBA. Para ello, se utilizan herramientas como Python, SQL, Power BI y Google Cloud para la recolección, transformación y visualización de los datos.
 
