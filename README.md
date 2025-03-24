@@ -1,7 +1,8 @@
-# 📊 Proyecto: Análisis de Inversión en la NBA con Python, SQL y Power BI
+# 📊 Proyecto: Análisis de Inversión en la NBA
 [Link al repositorio del proyecto](https://github.com/PabloEstruch/PI_NBA_SoyHenry)
 ## 📌 Introducción
 
+Proyecto grupal Análisis de Inversión en la NBA  
 El objetivo de este proyecto es analizar datos financieros y de rendimiento de los equipos para identificar oportunidades de inversión en franquicias de la NBA. Para ello, se utilizan herramientas como Python, SQL, Power BI y Google Cloud para la recolección, transformación y visualización de los datos.
 
 ## 🏠 Desarrollo del Proyecto
